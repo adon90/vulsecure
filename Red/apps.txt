@@ -1,0 +1,10 @@
+IIS
+Apache
+Flash
+Adobe reader
+Firefox
+Chrome
+iExplorer
+MySQL
+(SO) https://msdn.microsoft.com/en-us/library/windows/desktop/ms724833%28v=vs.85%29.aspx
+Java
