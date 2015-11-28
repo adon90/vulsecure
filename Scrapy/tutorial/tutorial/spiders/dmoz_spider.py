@@ -7,8 +7,8 @@ from tutorial.items import VulnerabilityItem
 
 
 
-class DmozSpider(CrawlSpider):
-    name = "dmoz"
+class CVESpider(CrawlSpider):
+    name = "cve"
     allowed_domains = ["cvedetails.com"]
     start_urls = [
         "http://www.cvedetails.com/vulnerability-list/"
@@ -46,7 +46,6 @@ class DmozSpider(CrawlSpider):
         url = response.url
         
         print cve
-        
         
         if (vulnerability['Score'] != '0.0'):
             
