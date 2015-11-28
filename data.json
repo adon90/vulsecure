@@ -1,0 +1,7 @@
+
+{
+"Products":[
+	{"vendor": "Microsoft" ,"product":"Windows Server 2003", "version":"R2"},
+	{"vendor": "Mozilla", "product":"Firefox", "version":"39.0"}
+	]
+}
